@@ -89,14 +89,7 @@ BLUE="\e[34m"
 YELLOW="\e[33m" 
 BLACK="\e[30m" 
 ENDCOLOR="\e[0m"
-
-echo "[+]Installing requirements......../"
 sleep 4
-if [ "$(which figlet)" != "figlet not found"];then
-echo "Requierement found ..!!!!";
-else 
-apt install figlet && apt install lolcat -y 
-fi
 figlet Email-Spoof | lolcat -F
 echo -en "                                                       ${BLUE}SHIV TATHE v1.0${ENDCOLOR}"
 echo ""
