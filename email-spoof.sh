@@ -89,13 +89,12 @@ BLUE="\e[34m"
 YELLOW="\e[33m" 
 BLACK="\e[30m" 
 ENDCOLOR="\e[0m"
-sleep 4
 figlet Email-Spoof | lolcat -F
 echo -en "                                                       ${BLUE}SHIV TATHE v1.0${ENDCOLOR}"
 echo ""
 echo -en "${GREEN}You can make your smtp server to send emails for free kindly log in on ${RED}www.sendinblue.com \e[97m${ENDCOLOR}" | lolcat -p 
 echo " "
-sleep 5
+sleep 3
 read -p "Enter the user email (registerd on sendinblue) : " xu
 echo " "
 read -p "Enter the password of the server (ie.HYd7asdi9UHAD89) : " xp
