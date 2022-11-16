@@ -5,4 +5,8 @@
 ## If you Copy Then Give the credits :)
 ##Copyright (C) 2022  SHIVNATH TATHE (https://github.com/shivnathtathe)
 
-## Usage
+
+### [+] Installation
+
+ - `git clone https://github.com/KasRoudra/CamHacker`
+ - `cd Email_Spoof`
