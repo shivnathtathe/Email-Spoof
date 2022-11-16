@@ -10,5 +10,5 @@
 
  - `git clone https://github.com/shivnathtathe/Email-Spoof`
  - `cd Email_Spoof`
- -'python3 setup.py'
- - bash email-spoof.sh
+ - `python3 setup.py`
+ - `bash email-spoof.sh`
