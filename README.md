@@ -6,7 +6,7 @@
 #### Copyright (C) 2022 `SHIVNATH TATHE`.
 
 
-### [+] Installation
+### [+] Installation...
 
  - `git clone https://github.com/shivnathtathe/Email-Spoof`
  - `cd Email_Spoof`
