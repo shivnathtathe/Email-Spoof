@@ -12,5 +12,4 @@
  - `cd Email_Spoof`
  - `python3 setup.py`
  - `bash email-spoof.sh`
-
-##Thank you
+##### Thank you
